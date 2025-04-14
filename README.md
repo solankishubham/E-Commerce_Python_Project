@@ -1,5 +1,5 @@
 # E-Commerce_Python_Project
-This project involves the analysis of E-commerce sales data using Python, Jupyter Notebook, Pandas, and Plotly. The primary goal of the project is to visualize and interpret the performance of various product categories and subcategories across different customer segments.
+This project involves the analysis of E-commerce sales data using Python, Jupyter Notebook, Pandas, and Plotly. The primary goal of the project is to visualize and interpret the performance of various product categories and subcategories across different customer segments through their sales and profits.
 
 ## Project Overview
 ### Tools & Libraries Used:
@@ -18,54 +18,24 @@ Present insights using interactive charts and graphs
 Data Cleaning & Manipulation using Pandas
 Interactive Visualization using Plotly
 
-### Grouped analysis on:
-Product Category vs. Sales/Profit
-Subcategory-wise comparison
-Customer Segment-wise behavior
-Sorting and filtering based on profitability and sales trends
-
 ### Visualizations
 Some of the visualizations created using Plotly include:
 Bar Charts for Sales & Profit by Category/Subcategory
 Pie Charts showing contribution of each segment
-Line Charts for monthly/quarterly trends
-Heatmaps (optional) for cross-comparison between segments
+Line Charts for monthly trends
 
 ### Insights Derived
-[Example Insight] Technology category contributes the most to total profit.
+1. Monthly Sales Analysis: 11th month's sales was the highest and 2nd month's sales was lowest.
+2. Sales by Category: Technology sales was the highest and Office Supplies sales was lowest.
+3. Sub-Category Sales Analysis: Phones sales was the most throughout the sub-categories.
+4. Profit by Month: 12th month's sales profit was the highest.
+5. Profit by Category: Technology category's profit was highest.
+6. Profit by Sub-Category: Copiers sub-category's profit was highest.
+7. Sales and Profit- Customer Segment: Consumer segment has both highest sales and profit. 
 
-[Example Insight] The Consumer segment purchases the most, but Corporate yields higher profit margins.
-
-[Example Insight] Certain subcategories like "Tables" have high sales but low profits.
-
-(You can customize this section with actual findings from your project.)
-
-🚀 How to Run the Project
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ecommerce-sales-analysis.git
-cd ecommerce-sales-analysis
-Open the notebook
-Use Jupyter Notebook or JupyterLab to open ecommerce_analysis.ipynb.
-
-Install required libraries
-
-bash
-Copy
-Edit
-pip install pandas plotly
-📂 Folder Structure
-kotlin
-Copy
-Edit
-├── ecommerce_analysis.ipynb
-├── data/
-│   └── ecommerce_sales_data.csv
-├── README.md
-📬 Contact
+### Contact
 Shubham Solanki
-Email: [your-email@example.com]
-LinkedIn: [Your LinkedIn URL]
+Email: shubhamsolanki807@gmail.com
+LinkedIn: www.linkedin.com/in/shubham-solanki-170b26165
+
+
